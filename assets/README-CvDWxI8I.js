@@ -55,7 +55,6 @@ Toda chamada à API no backend deve ser feita sob o prefixo \`/api\` (ex: \`http
 - POST /api/protector - Criar protetor
 - GET /api/protector/:id - Obter perfil do protetor
 - PUT /api/protector/update/:id - Atualizar protetor 
-- DELETE /api/protector/delete/:id - Deletar protetor
 - POST /api/protector/:id/photo - Upload de foto de perfil do protetor
 
 ### Pets
@@ -64,7 +63,6 @@ Toda chamada à API no backend deve ser feita sob o prefixo \`/api\` (ex: \`http
 - GET /api/pet/:id - Obter detalhes de um pet específico
 - GET /api/pets/filter - Filtrar pets cadastrados por critérios
 - PUT /api/pet/update/:id - Atualizar informações do pet
-- DELETE /api/pet/delete/:id - Deletar pet do sistema
 - POST /api/pet/:id/photo - Upload de foto do pet
 - POST /api/pet/adopt/:id - Adotar pet (Restrito a Adotantes)
 - GET /api/pet/my-adoptions - Listar pets adotados pelo adotante autenticado (Restrito a Adotantes)
