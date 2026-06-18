@@ -48,7 +48,6 @@ Toda chamada à API no backend deve ser feita sob o prefixo \`/api\` (ex: \`http
 - POST /api/adopter - Criar adotante
 - GET /api/adopter/:id - Obter perfil do adotante
 - PUT /api/adopter/update/:id - Atualizar adotante
-- DELETE /api/adopter/delete/:id - Deletar adotante
 - POST /api/adopter/:id/photo - Upload de foto de perfil do adotante
 
 ### Protetores
