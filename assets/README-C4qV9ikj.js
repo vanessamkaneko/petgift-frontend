@@ -9,7 +9,7 @@ PetGift é uma aplicação web que facilita a adoção de pets permitindo:
 - Protetores registrarem e gerenciarem seus pets para adoção
 - Potenciais adotantes navegarem e filtrarem pets disponíveis
 - Autenticação e autorização segura de usuários
-- Gerenciamento de pets (criar, atualizar, deletar, adotar)
+- Gerenciamento de pets (criar, atualizar, adotar)
 
 ## Tecnologias
 
