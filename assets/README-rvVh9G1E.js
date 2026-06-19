@@ -2,6 +2,10 @@ const e=`# PetGift 🐾
 
 Uma plataforma de adoção de pets desenvolvida com NestJS que conecta protetores de animais e potenciais adotantes.
 
+A aplicação pode ser acessada através do link abaixo:
+
+https://vanessamkaneko.github.io/petgift-frontend/
+
 ## Visão Geral
 
 PetGift é uma aplicação web que facilita a adoção de pets permitindo:
